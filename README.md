@@ -1,4 +1,14 @@
-## Hi there 👋
+### 大家好，👋 我是 Kirtico
+### Hi there, I'm Kirtico
+
+- 🔭 **正在努力开发: Git 仓库 - ✨Kirtico's Playground✨ （Kirtico 的试验场），在其中做一些独立游戏开发的试验和学习。**
+  - I’m currently working on: Git Repository - Kirtico's Playground, in which i'm learning and testing some indie game-dev things
+- 🌱 **正在研究学习：Godot 游戏引擎 
+  - I’m currently learning: Godot Game Engine
+- 👯 **正在聆听意见：关于游戏开发
+  - I’m looking for advice on: game-dev
+- 🤔 **正在迷茫：作为一个 两个月经验的 Java 程序员、一年化工厂操作员经验的 黯淡未来。（但正在享受：准备逃出 化工厂操作员 工作，离职在家独立开发和学习的自由时光）**
+  - As a Java programmer with only 2 months of experience and a former chemical plant operator (1 year), I'm uncertain about my future prospects.(But now savoring: The freedom of quitting that job to focus on *independent development and learning at home!)
 
 <!--
 **Yinguiqi/Yinguiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
